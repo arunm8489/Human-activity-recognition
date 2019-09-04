@@ -8,18 +8,18 @@ This dataset is collected from 30 persons(referred as subjects in this dataset),
 
 We have divided the problem to 2 phases
 
-Static
+Static,
 Dynamic
 
 Static containes 3 activities
-Standing
-Sitting
+Standing,
+Sitting,
 Laying
 
 
 Dynamic contains 3 activities
-Walking
-Walking Upstairs
+Walking,
+Walking Upstairs,
 Walking Downstairs
 
 
