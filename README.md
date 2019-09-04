@@ -6,18 +6,17 @@
 This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
 
 
-We have divided the problem to 2 phases
-
+We have divided the problem to 2 phases:
 Static,
 Dynamic
 
-Static containes 3 activities
+Static containes 3 activities:
 Standing,
 Sitting,
 Laying
 
 
-Dynamic contains 3 activities
+Dynamic contains 3 activities:
 Walking,
 Walking Upstairs,
 Walking Downstairs
